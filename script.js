@@ -8,9 +8,6 @@ const productos = [
     {nombre: 'Tobillera', precio: 5000},
 ]
 
-productos.push ('Aros con Dije', precio: 5000)
-console.log (productos)
-
 const carrito = []
 
 const agregarCarrito = (productos, cantidad)=>{
